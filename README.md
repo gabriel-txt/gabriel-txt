@@ -2,9 +2,9 @@
   <img src="https://github.com/gabriel-txt/gabriel-txt/blob/main/name.svg" alt="Gabriel Póvoa">
 </h1>
 
-"""java
-
-"""
+'''java
+opa = int;
+'''
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
