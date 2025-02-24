@@ -2,6 +2,8 @@
   <img src="https://github.com/gabriel-txt/gabriel-txt/blob/main/name.svg" alt="Gabriel Póvoa">
 </h1>
 
+<img hight="400" width="500" alt="GIF" align="right" href="[https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif](https://tenor.com/pt-BR/view/cat-huh-cat-huh-etr-gif-15332443943609734737)">
+
 ## About Me
 ```java
 public class Gabriel {
