@@ -2,7 +2,7 @@
   <img src="https://github.com/gabriel-txt/gabriel-txt/blob/main/name.svg" alt="Gabriel Póvoa">
 </h1>
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/gabriel-txt/gabriel-txt/blob/main/cat-huh-cat-huh-etr.gif">
+<img hight="100" width="100" alt="GIF" align="right" src="https://github.com/gabriel-txt/gabriel-txt/blob/main/cat-huh-cat-huh-etr.gif">
 
 ## About Me
 ```java
