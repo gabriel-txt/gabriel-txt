@@ -9,7 +9,7 @@ public class Gabriel {
   char gender = 'M';
   string formation = "Analysis and Development of Systems"
   string occupation = "Intern in Technical Support"
-  string languages[] = ["pt-br", "en"];
+  string languages[] = {"pt-br", "en"};
 }
 ```
 
