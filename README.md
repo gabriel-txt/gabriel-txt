@@ -21,5 +21,3 @@ opa = int;
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4A5HUXmAUstmXxNgIsWMCR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
