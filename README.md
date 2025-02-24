@@ -3,15 +3,9 @@
 </h1>
 
 
-## Contact
-<div>
-  <img hight="100" width="100" alt="GIF" align="right" src="https://github.com/gabriel-txt/gabriel-txt/blob/main/cat-huh-cat-huh-etr.gif">
-  <a href="https://www.linkedin.com/in/gabrielpovoaribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:contatogabrielpovoa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/gabpovr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
 
 ## About Me
+<img hight="100" width="100" alt="GIF" align="right" src="https://github.com/gabriel-txt/gabriel-txt/blob/main/cat-huh-cat-huh-etr.gif">
 ```java
 public class Gabriel {
   int age = 20;
@@ -21,6 +15,14 @@ public class Gabriel {
   string languages[] = {"pt-br", "en"};
 }
 ```
+
+## Contact
+<div>
+  <a href="https://www.linkedin.com/in/gabrielpovoaribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:contatogabrielpovoa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/gabpovr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
 
 ## My stats
 <div>
