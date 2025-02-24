@@ -4,7 +4,7 @@
 
 ## About Me
 ```java
-opa = int;
+public class 
 ```
 
 ## My stats
@@ -16,9 +16,6 @@ opa = int;
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-txt&layout=compact&langs_count=8&card_width=320&theme=nightowl" />
   </a>
 </div>
-
-## Hobbies
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=gabroutsgamer)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
