@@ -2,10 +2,12 @@
   <img src="https://github.com/gabriel-txt/gabriel-txt/blob/main/name.svg" alt="Gabriel Póvoa">
 </h1>
 
+## About Me
 ```java
 opa = int;
 ```
 
+## My stats
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-txt&theme=nightowl" />
