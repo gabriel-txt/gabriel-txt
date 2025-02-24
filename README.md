@@ -4,10 +4,10 @@
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-txt&theme=nightowl" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-txt&theme=nightowl" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img width="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-txt&layout=compact&langs_count=8&card_width=320&theme=nightowl" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-txt&layout=compact&langs_count=8&card_width=320&theme=nightowl" />
   </a>
 </div>
 
