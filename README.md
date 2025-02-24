@@ -5,7 +5,7 @@
 
 
 ## About Me
-<img hight="130" width="130" alt="GIF" align="right" style="border-radius:5px; margin:10px;" src="https://github.com/gabriel-txt/gabriel-txt/blob/main/cat-huh-cat-huh-etr.gif">
+<img hight="129" width="129" alt="GIF" align="right" style="border-radius:5px; margin:10px;" src="https://github.com/gabriel-txt/gabriel-txt/blob/main/cat-huh-cat-huh-etr.gif">
 
 ```java
 public class Gabriel {
