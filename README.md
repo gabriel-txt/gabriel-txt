@@ -9,11 +9,11 @@
 
 ```java
 public class Gabriel {
-  int age = 20;
-  char gender = 'M';
-  string formation = "Analysis and Development of Systems"
-  string occupation = "Intern in Technical Support"
-  string languages[] = {"pt-br", "en"};
+  public int age = 21;
+  public char gender = 'M';
+  public string formation = "Analysis and Development of Systems"
+  public string occupation = "Intern in Technical Support"
+  public string languages[] = {"pt-br", "en"};
 }
 ```
 
